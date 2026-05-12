@@ -17,7 +17,7 @@ Winner of the Healthcare Track at the IBM x UNSA Hackathon🏆. An AI-assisted p
 
 ---
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 * **Languages:** Python, C, JavaScript, HTML, CSS
 * **Libraries & ML:** NumPy, Pandas, Matplotlib, Scikit-learn
