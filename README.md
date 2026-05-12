@@ -17,11 +17,11 @@ Winner of the Healthcare Track at the IBM x UNSA Hackathon🏆. An AI-assisted p
 
 ---
 
-## 🛠 Tech Stack
+🛠 Tech Stack
 
-* **Languages:** Python, C, HTML, CSS, Javascript, Java, React-three-fiber
+* **Languages:** Python, C, JavaScript, HTML, CSS
 * **Libraries & ML:** NumPy, Pandas, Matplotlib, Scikit-learn
-* **Tools & Frameworks:** Streamlit, IBM watsonx.ai, Git, GitHub
+* **Tools & Frameworks:** React, React-three-fiber, Streamlit, IBM watsonx.ai, Git, GitHub
 
 ---
 
