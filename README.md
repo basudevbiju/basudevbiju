@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Basu! 👋
 
-<!--
-**basudevbiju/basudevbiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+* First-year engineering student enrolled at Sahrdaya College of Engineering and Technology (SCET).
+* Simultaneously pursuing an online Bachelor of Science degree in Data Science and Applications from the Indian Institute of Technology Madras (IITM).
+* Based in Kerala, India.
+* Focused on building practical data-driven applications, hardware logic circuits, and hackathon-winning AI integrations.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### InsurCheck (Medical Bill Validator)
+Winner of the Healthcare Track at the IBM x UNSA Hackathon🏆. An AI-assisted platform targeting healthcare accessibility using enterprise tools.
+* **Tech Stack:**  IBM watsonx.ai, Java, SpringBoot, React-three-fiber, PostgresSQL
+
+
+---
+
+## 🛠 Tech Stack
+
+* **Languages:** Python, C, HTML, CSS, Javascript, Java, React-three-fiber
+* **Libraries & ML:** NumPy, Pandas, Matplotlib, Scikit-learn
+* **Tools & Frameworks:** Streamlit, IBM watsonx.ai, Git, GitHub
+
+---
+
+## 📬 Contact
+
+- LinkedIn: [linkedin.com/in/basudev-biju](https://www.linkedin.com/in/basudev-biju/)
+- Email: basukattilath@gmail.com
