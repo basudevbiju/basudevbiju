@@ -10,7 +10,7 @@
 
 ## 🚀 Featured Projects
 
-### InsurCheck (Medical Bill Validator)
+### ChargeLens (Medical Bill Validator)
 Winner of the Healthcare Track at the IBM x UNSA Hackathon🏆. An AI-assisted platform targeting healthcare accessibility using enterprise tools.
 * **Tech Stack:**  IBM watsonx.ai, Java, SpringBoot, React-three-fiber, PostgresSQL
 
